@@ -1,3 +1,3 @@
 # MyOwnRepo
-##Repositry
+## Repositry
 for testing 
